@@ -1,2 +1,2 @@
 # demoproject
-It's my demo project repository.
+It's my demo project repository
